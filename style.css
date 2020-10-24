@@ -1,6 +1,6 @@
 @font-face {
 	font-family:"Odachi";
-	src: url("O dachi 400.otf");
+	src: url("Odachi 400.otf");
 }
 @font-face {
 	font-family:"NoirRegular";
@@ -43,7 +43,7 @@ li, a{
     font-size:  20px;
     color: white;
     text-decoration: none;
-    font-family: NoirBold;
+    font-family: NoirRegular;
   
    
 }
@@ -84,7 +84,7 @@ header{
 }
 .textb{
 	text-shadow: 2px 2px grey;
-    font-family: "Noir";
+    font-family: NoirRegular;
 }
 .butones{
     width: auto;
@@ -101,6 +101,7 @@ header{
     padding: 200px 4%;
     margin: auto;
     color: #ffd369;
+    font-family:NoirBold
 }
 .textc{
     font-weight: bold;
@@ -109,6 +110,7 @@ header{
 }
 .textd{
     text-shadow: 1px 1px black;
+    font-family:NoirRegular;
 }
 .box{
     width: 300px;
@@ -130,7 +132,7 @@ input[type=text]{
     background-color: black;
     background-size: cover;
     padding: none;
-    font-family: NoirStd-regular;
+    font-family: NoirBold;
     font-weight: bold;
     font-size: 30px;
     color: white;
@@ -144,7 +146,7 @@ input[type=text]{
 }
 .textf{
     text-shadow:2px 2px black;
-	font-family: NoirBold;
+	font-family: NoirRegular;
 }
 .canon1{
     text-align: center;
@@ -201,6 +203,7 @@ img {
 	background-position:center;
 	background-size:cover;
 	height:50px;
+	
 
 }
 .slot1 .icon{
