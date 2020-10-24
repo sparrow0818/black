@@ -225,8 +225,8 @@ img {
 footer{
 	position:absolute;
 	right:0;
+	bottom:0;
 	left:0;
-	bottom:0
 	padding:1rem;
 	text-align:left;
 	background-color:#015668;
